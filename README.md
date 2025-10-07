@@ -4,7 +4,7 @@
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
-[🔧 Abe_star](https://github.com/magnoefren/Abe_star) — Plantilla pública para [describe tu proyecto brevemente].
+(https://github.com/magnoefren/Abe_star)
 
 <div align="center">  
   
