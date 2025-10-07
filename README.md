@@ -16,7 +16,7 @@
 
 <div align="center">  
   
-<p align="center"><img src="https://raw.githubusercontent.com//project_modules/max_1200/dinosaurio.gif"><\p>
+<p align="center"><img src="https://raw.githubusercontent.com//project_modules/max_1200/dinosaurio.gif"> </p>
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
