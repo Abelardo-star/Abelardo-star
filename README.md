@@ -1,5 +1,4 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/header.png"></p>
 
 
 <p align="left"> </p>
@@ -10,5 +9,6 @@
 
 
 <div align="center">  
-  
+  <p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/header.png"></p>
+
 
