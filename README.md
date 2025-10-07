@@ -14,10 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
-<div align="center">  
   
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gipy.gif" width="35">
 
-<img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
+
 
 
