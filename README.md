@@ -16,7 +16,7 @@
 
 <div align="center">  
   
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/Abelardo-star/max_1200/dinosaurio.gif)
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dinosaurio.gif)
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
