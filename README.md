@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Abelardo-star.+Welcome!)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+I'm+Abelardo-star.+Welcome!)]
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
