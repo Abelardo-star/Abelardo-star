@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 <p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/cover-thompson.png"></p>
 
 
@@ -18,3 +19,5 @@
   <p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/header.png"></p>
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
+
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/Abelardo-star/max_1200/dinosaurio.gif)
