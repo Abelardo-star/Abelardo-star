@@ -16,7 +16,7 @@
 
 <div align="center">  
   
-![Dino](https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/assets/dinosaurio.gif)
+<img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/assets/dinosaurio.gif">
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
 
