@@ -1,3 +1,7 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/KevinPatel04/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/KevinPatel04/master/header.png"></p>
+
+
 <p align="left"> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Abelardo_star.+Welcome!)]
