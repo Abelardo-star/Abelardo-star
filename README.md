@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/Abelardo_star/master/cover-thompson.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abelardo_star/Abelardo_star/master/header.png"></p>
 
 
 <p align="left"> </p>
