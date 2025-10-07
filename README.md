@@ -16,6 +16,7 @@
 
   
 <p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/gipy.gif" width="500"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/Thankyou.gif" width="50"></p>
 
 
 <img src="https://raw.githubusercontent.com/Abelardo-star/Abelardo-star/master/line-neon.gif" width=100%>
